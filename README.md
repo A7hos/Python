@@ -19,5 +19,4 @@ Clase 3:
 https://colab.research.google.com/drive/1xAV9s0X6Xjle1ODmugPOMwCEKJoLIPIR?usp=drive_link
 
 (sol.)
-
-
+https://colab.research.google.com/drive/1qHXAetR_CCJaW6joHmITcZ3FaUh0SU98?usp=sharing
