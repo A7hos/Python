@@ -20,3 +20,12 @@ https://colab.research.google.com/drive/1xAV9s0X6Xjle1ODmugPOMwCEKJoLIPIR?usp=dr
 
 (sol.)
 https://colab.research.google.com/drive/1qHXAetR_CCJaW6joHmITcZ3FaUh0SU98?usp=drive_link
+
+Analisis de Datos
+
+Clase 1:
+
+https://colab.research.google.com/drive/1UlQWNjoe8n0aKj73xFsri7yTyfmNIyL4?usp=drive_link
+
+(sol.)
+http
