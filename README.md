@@ -28,4 +28,11 @@ Clase 1:
 https://colab.research.google.com/drive/1UlQWNjoe8n0aKj73xFsri7yTyfmNIyL4?usp=drive_link
 
 (sol.)
-http
+https://colab.research.google.com/drive/1kneOLytkQk71pSVAh3dBipFk-g1xER2e?usp=drive_link
+
+Clase 2:
+
+https://colab.research.google.com/drive/1sHmwmRnZ5Ngp9MblnreuZ7L5uV8TJEfu?usp=drive_link
+
+(sol.)
+https
